@@ -1,0 +1,8 @@
+../Core/Src/st7735.c:43:13:ST7735_WriteCommand	1
+../Core/Src/st7735.c:48:13:ST7735_WriteData	1
+../Core/Src/st7735.c:53:13:ST7735_SetAddressWindow	1
+../Core/Src/st7735.c:70:6:ST7735_Init	1
+../Core/Src/st7735.c:177:6:ST7735_DrawPixel	3
+../Core/Src/st7735.c:190:6:ST7735_WriteString	8
+../Core/Src/st7735.c:223:6:ST7735_FillRectangle	7
+../Core/Src/st7735.c:252:6:ST7735_FillScreen	1

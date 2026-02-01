@@ -1,0 +1,5 @@
+../Core/Src/snake_game.c:41:13:SpawnApple	16	static
+../Core/Src/snake_game.c:60:13:InitGame	8	static
+../Core/Src/snake_game.c:77:13:ProcessInput	8	static
+../Core/Src/snake_game.c:95:13:UpdateAndDraw	32	static
+../Core/Src/snake_game.c:160:6:Snake_Game_Start	40	static
