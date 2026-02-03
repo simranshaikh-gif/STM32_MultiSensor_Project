@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "STM2ESP",
+			"path": "../../../PlatformIO/Projects/STM2ESP"
+		},
+		{
+			"name": "Espnew",
+			"path": "../../../PlatformIO/Projects/Espnew"
+		}
+	],
+	"settings": {}
+}
